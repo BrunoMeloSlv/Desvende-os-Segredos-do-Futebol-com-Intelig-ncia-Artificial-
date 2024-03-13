@@ -1,5 +1,12 @@
 # Desvende os Segredos do Futebol com Inteligência Artificial!
 
+#### Links:
+##### Instagram: https://www.instagram.com/brunomelods/
+##### Youtube: https://www.youtube.com/channel/UCn89B2mZDj4mq6iP5wueHMA
+##### Linkedin: https://www.linkedin.com/in/bruno-melo-223817125/
+##### Vídeo explicando toda metodologia: https://www.youtube.com/watch?v=bZSOfVIRqNo&t=1s
+##### App: https://skby9wg9tzx3n6t9uljxqt.streamlit.app/
+
 ## Método AHP (Analytic Hierarchy Process – Gaussiano) na Determinação da Contratação de um Jogador de Futebol
 
 ### Resumo:
